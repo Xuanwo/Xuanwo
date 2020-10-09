@@ -1,6 +1,6 @@
 ### Hi I'm Xuanwo 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Xuanwo&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Xuanwo&show_icons=true&include_all_commits=true&count_private=true" />
 
 I'm focused on Automation, Distributed Systems and Storage.
 
