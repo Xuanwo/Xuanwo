@@ -19,12 +19,13 @@ If our visions align in some part, feel free to get in touch so we can collabora
 
 Projects that I'm working on:
 
-- [databend](https://github.com/datafuselabs/databend): A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.
 - [opendal](https://github.com/datafuselabs/opendal): A unified data access layer, empowering users to seamlessly and efficiently retrieve data from diverse storage services
 - [iceberg-rust](https://github.com/apache/iceberg-rust): Rust implementation of [Apache Iceberg](https://iceberg.apache.org/).
 - [paimon-rust](https://github.com/apache/paimon-rust): The rust implementation of [Apache Paimon](https://paimon.apache.org/).
 - [arrow-rs](https://github.com/apache/arrow-rs): Official Rust implementation of [Apache Arrow](https://arrow.apache.org/).
 - [fury-rs](https://github.com/apache/fury): A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
+- [databend](https://github.com/datafuselabs/databend): A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.
+
 
 Projects that I maintained:
 
