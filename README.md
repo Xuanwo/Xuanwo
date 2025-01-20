@@ -1,5 +1,7 @@
 # Hi, I'm Xuanwo 👋
 
+> Xuanwo, `/ʃwæn woʊ/`, pronounced "shwan-wo"
+
 My VISION is [`Data Freedom`](https://xuanwo.io/2024/04-xuanwo-vision/).
 
 I aim to create an ecosystem where users can access ANY data, across ANY service, using ANY method, in ANY language.
